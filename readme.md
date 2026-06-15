@@ -1,122 +1,127 @@
-<h1 align="center">Hi 👋, I'm Rajarshi Saha</h1>
-<h3 align="center">Engineering scalable systems. Solving problems with clarity.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajarshi-saha-6a923230b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajarshisaha123.4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rajarshisaha10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# Rajarshi Saha
+
+**Engineering scalable systems. Solving problems with clarity.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshi-saha-6a923230b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajarshisaha123.4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajarshisaha10)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🎓 Computer Science Student
-- 💻 Focused on **Systems Programming & AI**
-- 🧩 Strong in **Memory Management, Backend Logic & ML**
-- 🚀 Preparing for **Hackathons & Competitive Technical Roles**
-- ⚡ Philosophy: *Clarity > Complexity*
+CS student focused on the intersection of **systems programming** and **applied AI** — where performance meets intelligence.
 
----
+I care about writing code that's readable, correct, and fast — in that order.
 
-## 🛠️ Tech Stack
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Web:**
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Machine Learning:**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🤖 AI Hiring Assistant
-> ML-powered resume screening and automated candidate ranking system.
-
-- Role-based weighted scoring engine
-- Resume parsing & skill extraction
-- Composite decision engine with fraud detection
-- **Stack:** Python · FastAPI · React · Scikit-Learn · SQL
-
----
-
-### 📈 Stock Market Prediction using LSTM
-> Time-series forecasting using deep learning on historical market data.
-
-- LSTM-based sequential modelling
-- Data preprocessing & normalization pipeline
-- RMSE / MAE evaluation metrics
-- **Stack:** Python · TensorFlow · Pandas · Matplotlib
-
----
-
-### 🖼️ Image Recognition Models
-> CNN-based deep learning pipeline for multi-class image classification.
-
-- Custom CNN architectures with data augmentation
-- Confusion matrix analysis & accuracy optimization
-- **Stack:** Python · TensorFlow · PyTorch · OpenCV
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajarshisaha10&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rajarshisaha10&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarshisaha10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajarshisaha10&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Ship 3 production-grade projects (with live deployments)
-- 🏆 Win a national-level hackathon
-- 🧠 Master low-level systems programming
-- 📚 Contribute to impactful open source
-
----
+- 🔧 Strong in memory management, backend architecture & ML pipelines
+- 🏁 Actively preparing for hackathons and competitive technical roles
+- 📍 Based in West Bengal, India
 
 > *"Discipline compounds. Skill scales. Consistency wins."*
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rajarshisaha10&icon=0&color=0" />
-</p>
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## Projects
+
+### 🧠 AI Therapist
+> Conversational AI for mental wellness support and emotional check-ins.
+
+Built an NLP-driven therapy assistant that conducts empathetic dialogues, tracks emotional patterns over sessions, and escalates to human support when needed — with a privacy-first architecture.
+
+`Python` `FastAPI` `React` `TensorFlow` `NLP`
+
+---
+
+### 📈 Stock Market Prediction — LSTM
+> Time-series forecasting on historical market data using deep learning.
+
+Designed an end-to-end LSTM pipeline with custom preprocessing and normalization, evaluated against RMSE and MAE benchmarks.
+
+`Python` `TensorFlow` `Pandas` `Matplotlib`
+
+---
+
+### 🖼️ Image Recognition — CNN Pipeline
+> Multi-class image classification from scratch.
+
+Built custom CNN architectures with data augmentation, confusion matrix analysis, and iterative accuracy optimization across multiple model variants.
+
+`Python` `TensorFlow` `PyTorch` `OpenCV`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Rajarshisaha10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Rajarshisaha10&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarshisaha10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rajarshisaha10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 2026 Goals
+
+| Goal | Status |
+|------|--------|
+| 🚀 Ship 3 production-grade projects with live deployments | In Progress |
+| 🏆 Win a national-level hackathon | Upcoming |
+| 🧠 Master low-level systems programming | In Progress |
+| 📚 Contribute to impactful open source | Upcoming |
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Rajarshisaha10&icon=0&color=0)
+
+</div>
